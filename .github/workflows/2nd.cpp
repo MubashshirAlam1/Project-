@@ -11,7 +11,7 @@ int main()
 	   
 	   while (cin>>current){
 	    ++num_words;
-	    if(previous==current);
+	    if(previous==current)
 	    cout<<"word number"<<"num_words"<<"repeated\n"<<current<<endl;
 	    previous=current;
 	    adieu+="Bye Bye";
